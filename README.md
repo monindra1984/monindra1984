@@ -64,7 +64,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Deployment different projects using Proxmox Server for virutalisation
 - Deployment of Firewall, IPS, and IDS using Pfsense
 - Deployment of NOC Automation tool using Onion
-- Project to secure local DNS Server with use of DNS Sec by deploying local DNS server with customised digital certificats for local servers
+- Secured local DNS Server using of DNS Sec with customised digital certificates - Pfsense as  dns server/ resolver , duckdns.org for digital certificats local domain, 
 - Project on attact adversary tool Caldera
 - Deployment of Vulnerability assessement tool - Nessus and Nmap
-- 
+
